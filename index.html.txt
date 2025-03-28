@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>My Online Store</title>
+    <link rel="stylesheet" type="text/css" href="style.css">
+</head>
+<body>
+    <header>
+        <h1>Welcome to My Store</h1>
+        <p>Your one-stop shop for amazing products!</p>
+    </header>
+    <section>
+        <h2>Featured Products</h2>
+        <ul>
+            <li>
+                <h3>Product 1</h3>
+                <p>$20 - High-quality and affordable!</p>
+                <a href="product1.html">View Details</a>
+            </li>
+            <li>
+                <h3>Product 2</h3>
+                <p>$30 - Stylish and durable!</p>
+                <a href="product2.html">View Details</a>
+            </li>
+        </ul>
+    </section>
+    <footer>
+        <p>Contact us at: <a href="mailto:support@mystore.com">support@mystore.com</a></p>
+    </footer>
+</body>
+</html>
